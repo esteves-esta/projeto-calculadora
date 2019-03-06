@@ -1,0 +1,26 @@
+C:\Users\Fernanda Esteves\Downloads\PRONome 0806\PRONome 0806\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe.config
+C:\Users\Fernanda Esteves\Downloads\PRONome 0806\PRONome 0806\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe
+C:\Users\Fernanda Esteves\Downloads\PRONome 0806\PRONome 0806\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.pdb
+C:\Users\Fernanda Esteves\Downloads\PRONome 0806\PRONome 0806\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csprojAssemblyReference.cache
+C:\Users\Fernanda Esteves\Downloads\PRONome 0806\PRONome 0806\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.FormCalcS.resources
+C:\Users\Fernanda Esteves\Downloads\PRONome 0806\PRONome 0806\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.FormCalculadora.resources
+C:\Users\Fernanda Esteves\Downloads\PRONome 0806\PRONome 0806\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.FormMenu.resources
+C:\Users\Fernanda Esteves\Downloads\PRONome 0806\PRONome 0806\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.FormRelogio.resources
+C:\Users\Fernanda Esteves\Downloads\PRONome 0806\PRONome 0806\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.Properties.Resources.resources
+C:\Users\Fernanda Esteves\Downloads\PRONome 0806\PRONome 0806\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csproj.GenerateResource.cache
+C:\Users\Fernanda Esteves\Downloads\PRONome 0806\PRONome 0806\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda Esteves\Downloads\PRONome 0806\PRONome 0806\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.exe
+C:\Users\Fernanda Esteves\Downloads\PRONome 0806\PRONome 0806\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.pdb
+C:\Users\Fernanda Esteves\Downloads\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe.config
+C:\Users\Fernanda Esteves\Downloads\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe
+C:\Users\Fernanda Esteves\Downloads\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.pdb
+C:\Users\Fernanda Esteves\Downloads\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csprojAssemblyReference.cache
+C:\Users\Fernanda Esteves\Downloads\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.FormCalcS.resources
+C:\Users\Fernanda Esteves\Downloads\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.FormCalculadora.resources
+C:\Users\Fernanda Esteves\Downloads\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.FormMenu.resources
+C:\Users\Fernanda Esteves\Downloads\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.FormRelogio.resources
+C:\Users\Fernanda Esteves\Downloads\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.Properties.Resources.resources
+C:\Users\Fernanda Esteves\Downloads\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csproj.GenerateResource.cache
+C:\Users\Fernanda Esteves\Downloads\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda Esteves\Downloads\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.exe
+C:\Users\Fernanda Esteves\Downloads\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.pdb
