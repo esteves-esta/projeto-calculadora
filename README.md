@@ -18,6 +18,3 @@ A segunda calculadora além dessas operações pode realizar operações de pot�
 ### Calculadora
 ![Calculadora](https://github.com/esteves-esta/projeto-calculadora/blob/master/ProjetoCalculadora/Imagens/calculadora.PNG)
 
----
-### Exibição da mensagem de confirmação de fechamento
-![Exibição da mensagem de confirmação de fechamento](https://github.com/esteves-esta/projeto-calculadora/blob/master/ProjetoCalculadora/Imagens/volta-ao-menu.PNG)
